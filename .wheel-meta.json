@@ -1,0 +1,22 @@
+{
+  "wheel_id": 609,
+  "structure": "umbrella",
+  "slug": "homeloanbrokersydney-103",
+  "project": "mortgage-broker-sydney-checklist-15edde7e8715068cb477de2d8922b4",
+  "parent_t1_ref": "homeloanbrokersydney-152",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokersydney.com.au",
+  "primary_kw": "mortgage broker sydney checklist",
+  "intended_url": "http://mortgage-broker-sydney-checklist-15edde7e8715068cb477de2d8922b4.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "fbc009094e7b9a10",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/homeloanbrokersydney-152/",
+      "anchor": "Mortgage Broker Sydney Common Mistakes: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
